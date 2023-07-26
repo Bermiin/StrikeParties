@@ -1,3 +1,6 @@
 name: StrikeParties
 version: '${project.version}'
+depend: [StrikePractice]
+softdepend: [PartyAndFriends]
 main: me.bermine.strikeparties.StrikeParties
+author: Bermine
